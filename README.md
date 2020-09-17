@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, i'm Waaberi
+
+![https://i.imgur.com/uEvK3Oa.png](https://i.imgur.com/uEvK3Oa.png)
+![https://i.imgur.com/pznK8AS.png](https://i.imgur.com/pznK8AS.png)
