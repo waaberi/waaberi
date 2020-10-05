@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 Hi, i'm Waaberi
 
-![https://i.imgur.com/uEvK3Oa.png](https://i.imgur.com/uEvK3Oa.png)
+![https://i.imgur.com/7S0FWpp.png](https://i.imgur.com/7S0FWpp.png)
 ![https://i.imgur.com/pznK8AS.png](https://i.imgur.com/pznK8AS.png)
