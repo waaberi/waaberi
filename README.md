@@ -5,7 +5,7 @@ I'm currently a First Year Software Engineering student at uOttawa.
 - Into web development, data science, and cybersecurity
 - Linux Enthusiast
 - I go to lots of hackathons (for the pizza)
-- Junior Analyst at [**Statistics Canada**](https://www.statcan.gc.ca/) (Summer '26)
+- Software Engineer Intern at [**Statistics Canada**](https://www.statcan.gc.ca/) (Summer '26)
 - Webmaster at [**IEEE uOttawa**](https://ieeeuottawa.ca/)
 - Bilingual — English / Français
 - Find me at [**waaberi.dev**](https://waaberi.dev) · [LinkedIn](https://linkedin.com/in/waaberi)
