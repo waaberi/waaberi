@@ -1,6 +1,6 @@
 # Hi, I'm Waaberi
 
-I'm currently a First Year Software Engineering student at uOttawa.
+I'm currently a Second Year Software Engineering student at uOttawa.
 
 - Into web development, data science, and cybersecurity
 - Linux Enthusiast
